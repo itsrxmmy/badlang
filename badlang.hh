@@ -184,8 +184,7 @@ using namespace std;
 #define CXX
 #define CPP
 #define ASSEMBLE asm
-#define STD
-#define DO
+#define STD std
 #define PLEASE
 #define CL_ARGS int argc, char* argv[]
 #define CL_ARGS_PTR_PTR int argc, char** argv
