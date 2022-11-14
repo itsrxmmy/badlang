@@ -4,7 +4,7 @@ Badlang. A new Programming Language built into C++ which tailors to NONE of your
 
 # **How to use badlang**
 
-Simple, just download and include the "badlang.hh" header in your C++ files and get to work!
+Simple, just download and include the "[badlang.hh](https://github.com/itsrxmmy/badlang/blob/main/badlang.hh)" header in your C++ files and get to work!
 
 
 # **Learn badlang**
